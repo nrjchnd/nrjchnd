@@ -16,7 +16,7 @@ I work at the intersection of high-concurrency infrastructure, telephony protoco
 
 - **Role:** Engineering Manager at Five9
 - **Venture:** Condensate.io
-- **Explorations:** aegentOS, voipbin-mcp, QuicRTP
+- **Explorations:** agent control loops, telephony integrations, and real-time media transport
 - **Craft:** Go, Kubernetes, SIP/RTP, AI Infrastructure
 
 ---
@@ -65,7 +65,6 @@ Instead of producing compliance artifacts at the end, the goal is a system where
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=nrjchnd&amp;show_icons=true&amp;theme=midnight-purple&amp;include_all_commits=true&amp;hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrjchnd&amp;layout=compact&amp;theme=midnight-purple&amp;hide_border=true">
 </p>
 
 <p>
