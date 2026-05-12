@@ -10,39 +10,39 @@
 
 ### On Systems That Think
 
-*Software is not merely code — it is crystallized intent. The most consequential systems are those where intent, proof, and governance evolve together, and where the people building them remain honest about what they do not yet know.*
+*Software is more than code. Good systems keep intent, proof, and governance aligned, and teams stay clear about what they still need to learn.*
 
-The work sits at the boundary of high-concurrency infrastructure, telephony protocols, and AI agent governance — Engineering Manager at Five9, and founder of [Condensate.io](https://www.condensate.io). The central question driving it all: *how do complex systems remain trustworthy as they grow in capability and autonomy?*
+I work at the intersection of high-concurrency infrastructure, telephony protocols, and AI agent governance as an Engineering Manager at Five9 and founder of [Condensate.io](https://www.condensate.io). The main question behind this work is simple: *how do complex systems stay trustworthy as they become more capable and more autonomous?*
 
 - **Role:** Engineering Manager at Five9
 - **Venture:** Condensate.io
-- **Explorations:** aegentOS, voipbin-mcp, QuicRTP
+- **Explorations:** agent control loops, telephony integrations, and real-time media transport
 - **Craft:** Go, Kubernetes, SIP/RTP, AI Infrastructure
 
 ---
 
 ### Verified Agentic Development
 
-The traditional model — where code is the primary artifact — is insufficient for the era of AI-augmented delivery. [Verified Agentic Development](https://github.com/condensate-io/verified-agentic-development) proposes a different foundation:
+The traditional model where code is the main artifact is not enough for AI-assisted delivery. [Verified Agentic Development](https://github.com/condensate-io/verified-agentic-development) proposes a different foundation:
 
 > **Intent is primary. Proof is mandatory. Governance is continuous.**
 
-Rather than assembling compliance artifacts after the fact, the goal is a system where every change begins with structured intent, every invariant becomes an executable proof obligation, and delivery is a feedback-control loop — not a handoff chain.
+Instead of producing compliance artifacts at the end, the goal is a system where every change starts with structured intent, every invariant has an executable proof obligation, and delivery works as a feedback loop.
 
 | Principle | What it means in practice |
 | :--- | :--- |
 | Intent Formalization | Goals, non-goals, and constraints are explicit before implementation begins |
 | Proof Planning | Every invariant has a testable proof obligation |
-| Separation of Duties | Builder, verifier, and policy roles are distinct — human or agent |
+| Separation of Duties | Builder, verifier, and policy roles are distinct, whether human or agent |
 | Telemetry Feedback | Production signals flow back into intent refinement |
 
 ---
 
 ### Active Explorations
 
-- **aegentOS** — A control plane where AI agents operate within bounded verification loops. Intent formalized. Proof obligations executable. Built with Go, PostgreSQL, and Kubernetes.
-- **voipbin-mcp** — A Model Context Protocol server connecting language models to telephony infrastructure, collapsing the distance between conversation and action.
-- **QuicRTP** — An experiment in bridging RTP/SRTP media streams over the QUIC transport layer — trading familiarity for resilience.
+- Building control-plane patterns where AI agents work inside bounded verification loops.
+- Connecting language models to telephony systems through MCP-based interfaces.
+- Exploring RTP/SRTP media delivery over QUIC for resilient real-time transport.
 
 ---
 
@@ -65,7 +65,6 @@ Rather than assembling compliance artifacts after the fact, the goal is a system
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=nrjchnd&amp;show_icons=true&amp;theme=midnight-purple&amp;include_all_commits=true&amp;hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrjchnd&amp;layout=compact&amp;theme=midnight-purple&amp;hide_border=true">
 </p>
 
 <p>
