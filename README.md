@@ -2,71 +2,86 @@
 
 <p>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=22&amp;pause=1000&amp;color=36BCF7&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Engineering+Manager+at+Five9;Hands-on+Software+Architect;Founder+of+Condensate.io;Building+aegentOS">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=22&amp;pause=1000&amp;color=BB86FC&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Engineering+Manager+at+Five9;Software+Architect+%26+Systems+Thinker;Founder+of+Condensate.io;Exploring+Verified+Agentic+Development">
   </a>
 </p>
 
 ---
 
-### Professional Profile
+### On Systems That Think
 
-I am an engineering manager at Five9 where I lead teams building cloud contact center infrastructure. I maintain a player-coach philosophy, staying active in the codebase and architectural design while scaling engineering organizations. 
+*Software is not merely code — it is crystallized intent. The most consequential systems are those where intent, proof, and governance evolve together, and where the people building them remain honest about what they do not yet know.*
 
-Beyond my role at Five9, I am the founder of Condensate.io and lead the development of aegentOS, an enterprise control plane for AI agent governance. My technical focus lies at the intersection of high-concurrency backend systems, telephony protocols, and cloud-native infrastructure.
+The work sits at the boundary of high-concurrency infrastructure, telephony protocols, and AI agent governance — Engineering Manager at Five9, and founder of [Condensate.io](https://www.condensate.io). The central question driving it all: *how do complex systems remain trustworthy as they grow in capability and autonomy?*
 
-- Current Role: Engineering Manager at Five9
-- Founder: Condensate.io
-- Active Projects: aegentOS, voipbin-mcp, QuicRTP
-- Core Expertise: Go, Kubernetes, SIP/RTP, and AI Infrastructure
+- **Role:** Engineering Manager at Five9
+- **Venture:** Condensate.io
+- **Explorations:** aegentOS, voipbin-mcp, QuicRTP
+- **Craft:** Go, Kubernetes, SIP/RTP, AI Infrastructure
 
 ---
 
-### Technical Focus &amp; Leadership
+### Verified Agentic Development
 
-| Leadership &amp; Strategy | Engineering &amp; Architecture |
+The traditional model — where code is the primary artifact — is insufficient for the era of AI-augmented delivery. [Verified Agentic Development](https://github.com/condensate-io/verified-agentic-development) proposes a different foundation:
+
+> **Intent is primary. Proof is mandatory. Governance is continuous.**
+
+Rather than assembling compliance artifacts after the fact, the goal is a system where every change begins with structured intent, every invariant becomes an executable proof obligation, and delivery is a feedback-control loop — not a handoff chain.
+
+| Principle | What it means in practice |
 | :--- | :--- |
-| Team scaling and mentorship | Go backend development |
-| Product roadmap execution | Kubernetes orchestration |
-| Stakeholder management | VoIP and messaging gateways |
-| SDLC optimization | AI agentic systems |
+| Intent Formalization | Goals, non-goals, and constraints are explicit before implementation begins |
+| Proof Planning | Every invariant has a testable proof obligation |
+| Separation of Duties | Builder, verifier, and policy roles are distinct — human or agent |
+| Telemetry Feedback | Production signals flow back into intent refinement |
 
 ---
 
-### Active Development
+### Active Explorations
 
-- aegentOS: An enterprise-grade control plane for AI agent deployment and multi-tenancy. Built with Go, PostgreSQL, and Kubernetes.
-- voipbin-mcp: A Model Context Protocol server connecting LLMs to telephony systems.
-- QuicRTP: Research and implementation for bridging RTP/SRTP traffic over the QUIC protocol.
+- **aegentOS** — A control plane where AI agents operate within bounded verification loops. Intent formalized. Proof obligations executable. Built with Go, PostgreSQL, and Kubernetes.
+- **voipbin-mcp** — A Model Context Protocol server connecting language models to telephony infrastructure, collapsing the distance between conversation and action.
+- **QuicRTP** — An experiment in bridging RTP/SRTP media streams over the QUIC transport layer — trading familiarity for resilience.
 
 ---
 
-### Tech Stack
+### Craft & Tooling
+
+| Systems & Architecture | Delivery & Infrastructure |
+| :--- | :--- |
+| Go backend development | Kubernetes orchestration |
+| VoIP and messaging gateways | Team scaling and mentorship |
+| AI agentic control planes | Product roadmap execution |
+| Distributed systems design | SDLC and governance patterns |
+
+<br>
 
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&amp;logo=go&amp;logoColor=white"> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&amp;logo=kubernetes&amp;logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white"> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white"> <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&amp;logo=nginx&amp;logoColor=white">
 
 ---
 
-### GitHub Metrics
+### Signal
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=nrjchnd&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrjchnd&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=nrjchnd&amp;show_icons=true&amp;theme=midnight-purple&amp;include_all_commits=true&amp;hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrjchnd&amp;layout=compact&amp;theme=midnight-purple&amp;hide_border=true">
 </p>
 
 <p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nrjchnd&amp;theme=tokyo-night&amp;hide_border=true" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nrjchnd&amp;theme=dracula&amp;hide_border=true&amp;bg_color=0d0d0d&amp;color=BB86FC&amp;line=7B2FBE&amp;point=BB86FC" width="100%">
 </p>
 
 ---
 
 ### Connections
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&amp;logo=linkedin&amp;logoColor=white"> <a href="https://www.linkedin.com/in/chandneeraj">chandneeraj</a>  
-<img src="https://img.shields.io/badge/Founder-Condensate.io-36BCF7?style=flat-square&amp;logo=google-chrome&amp;logoColor=white"> <a href="https://www.condensate.io">condensate.io</a>  
-<img src="https://img.shields.io/badge/Private-fiji.im-FF5733?style=flat-square&amp;logo=google-chrome&amp;logoColor=white"> <a href="https://www.fiji.im">fiji.im</a>
+<img src="https://img.shields.io/badge/LinkedIn-1a1a2e?style=flat-square&amp;logo=linkedin&amp;logoColor=BB86FC"> <a href="https://www.linkedin.com/in/chandneeraj">chandneeraj</a>  
+<img src="https://img.shields.io/badge/Condensate.io-1a1a2e?style=flat-square&amp;logo=google-chrome&amp;logoColor=BB86FC"> <a href="https://www.condensate.io">condensate.io</a>  
+<img src="https://img.shields.io/badge/fiji.im-1a1a2e?style=flat-square&amp;logo=google-chrome&amp;logoColor=BB86FC"> <a href="https://www.fiji.im">fiji.im</a>
 
 <br>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=nrjchnd&amp;label=PROFILE+VIEWS&amp;color=36BCF7&amp;style=flat-square">
+  <img src="https://komarev.com/ghpvc/?username=nrjchnd&amp;label=PROFILE+VIEWS&amp;color=7B2FBE&amp;style=flat-square">
 </p>
