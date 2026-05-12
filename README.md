@@ -49,8 +49,12 @@ Beyond my role at Five9, I am the founder of Condensate.io and lead the developm
 ### GitHub Metrics
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=nrjchnd&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrjchnd&amp;layout=compact&amp;theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api?username=nrjchnd&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrjchnd&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true">
+</p>
+
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nrjchnd&amp;theme=tokyo-night&amp;hide_border=true" width="100%">
 </p>
 
 ---
@@ -62,10 +66,6 @@ Beyond my role at Five9, I am the founder of Condensate.io and lead the developm
 <img src="https://img.shields.io/badge/Private-fiji.im-FF5733?style=flat-square&amp;logo=google-chrome&amp;logoColor=white"> <a href="https://www.fiji.im">fiji.im</a>
 
 <br>
-
-<p>
-  <img src="https://raw.githubusercontent.com/nrjchnd/nrjchnd/output/github-contribution-grid-snake.svg">
-</p>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=nrjchnd&amp;label=PROFILE+VIEWS&amp;color=36BCF7&amp;style=flat-square">
