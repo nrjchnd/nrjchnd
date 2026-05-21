@@ -2,7 +2,7 @@
 
 <p>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=22&amp;pause=1000&amp;color=BB86FC&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Engineering+Manager+at+Five9;Software+Architect+%26+Systems+Thinker;Founder+of+Condensate.io;Exploring+Verified+Agentic+Development">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=22&amp;pause=1000&amp;color=BB86FC&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Software+Architect+%26+Systems+Thinker;Founder+of+Condensate.io;Exploring+Verified+Agentic+Development">
   </a>
 </p>
 
@@ -12,9 +12,8 @@
 
 *Software is more than code. Good systems keep intent, proof, and governance aligned, and teams stay clear about what they still need to learn.*
 
-I work at the intersection of high-concurrency infrastructure, telephony protocols, and AI agent governance as an Engineering Manager at Five9 and founder of [Condensate.io](https://www.condensate.io). The main question behind this work is simple: *how do complex systems stay trustworthy as they become more capable and more autonomous?*
+I work at the intersection of high-concurrency infrastructure, telephony protocols, and AI agent governance during the day and founder of [Condensate.io](https://www.condensate.io) after hours. The main question behind this work is simple: *how do complex systems stay trustworthy as they become more capable and more autonomous?*
 
-- **Role:** Engineering Manager at Five9
 - **Venture:** Condensate.io
 - **Explorations:** agent control loops, telephony integrations, and real-time media transport
 - **Craft:** Go, Kubernetes, SIP/RTP, AI Infrastructure
