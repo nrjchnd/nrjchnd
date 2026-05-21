@@ -1,4 +1,3 @@
-# Neeraj Chand
 
 <p>
   <a href="https://git.io/typing-svg">
